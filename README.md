@@ -3,9 +3,9 @@
 Boost your Steam game hours using this simple JavaScript!
     
 ```
-  💡   Lightweight
-  📚   Easy to use
-  🖥️   Run this 24/7 easy!
+  [💡]  Lightweight
+  [📚]  Easy to use
+  [🖥️]  Run this 24/7 easy!
  ```
 
 
