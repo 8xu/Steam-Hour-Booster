@@ -15,7 +15,7 @@ client.logOn(logInOptions); // Logs into the Steam account
 
 client.on("loggedOn", () => {
     console.log(`User account with ID: ${username} has been logged succesfully.`);
-    console.log(`View the account here: ${clinet.vanityURL}`);
+    console.log(`View the account here: ${client.vanityURL}`);
     client.setPersona(SteamUser.EPersonaState.Online);
     client.gamesPlayed(games);
 });
